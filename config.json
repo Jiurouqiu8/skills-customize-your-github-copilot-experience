@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "pytest-unit-testing",
+      "title": "Python Unit Testing with pytest",
+      "description": "Learn how to write automated tests in Python using pytest for functions and input validation.",
+      "path": "assignments/pytest-unit-testing",
+      "dueDate": "2026-06-17",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.py",
+          "type": "python"
+        }
+      ]
     }
   ]
 }
